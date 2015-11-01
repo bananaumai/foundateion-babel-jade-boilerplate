@@ -1,4 +1,8 @@
-/bower_components/*
+/public/*.html
+/public/bower_components/*
+/public/css/*
+/public/js/*
 /.sass-cache/*
+/node_modules/*
+npm-debug.log
 *.DS_Store
-/stylesheets/*
